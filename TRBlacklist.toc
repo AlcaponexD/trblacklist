@@ -1,0 +1,7 @@
+## Interface: 100205
+## Title: TRBlacklist
+## Notes: Towroshy rotas Blacklist.
+## Author: Kugaard
+## Version: 0.1
+
+TRBlacklist.lua
